@@ -10,4 +10,34 @@ h2 {
   color: white;
   padding: 30px;
   border-radius: 50px;
+  text-decoration: none;
+}
+p {
+  font-size: 20px;
+}
+.link {
+  font-size: 40px;
+  background-color: yellow;
+  padding: 20px;
+  margin-bottom: 80px;
+  border-radius: 50px;
+}
+.link:hover {
+  opacity: 0.5;
+}
+.container-fluid {
+  padding: 40px;
+}
+.navbar-header {
+  text-align: left;
+  background-color: pink;
+  padding: 10px;
+}
+.navbar-right {
+  text-align: right;
+  color: white;
+  background-color: aqua;
+  padding: 10px;
+  text-decoration: none;
+
 }
